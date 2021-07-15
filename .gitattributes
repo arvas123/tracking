@@ -1,0 +1,2 @@
+yolo-weights/yolov4-obj_best.weights filter=lfs diff=lfs merge=lfs -text
+checkpoints/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
